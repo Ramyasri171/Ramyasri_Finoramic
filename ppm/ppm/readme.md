@@ -1,2 +1,2 @@
 run with python3
-command python3 main.py
+command python3 linux.py 
